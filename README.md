@@ -1,7 +1,6 @@
 # 🦇 Batman Terminal Portfolio
 
-A **Batman-themed terminal-style portfolio** built using **React**, inspired by the old-school yellow-and-black Batcave interface.
-It features a 1% to 100% loading animation to give a cool hacker vibe before revealing your skills, projects, contact info, and more — all inside a terminal-like UI.
+A Batman-inspired, terminal-style portfolio forged in the shadows of the Batcave — built with React and wrapped in a slick yellow-on-black retro shell. It boots up with a dramatic 1% to 100% loading sequence, unleashing a hacker-style interface that showcases your skills, projects, contact info, and more — all through cinematic command-line vibes.
 
 ## 🚀 Features
 
