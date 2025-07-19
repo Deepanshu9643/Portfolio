@@ -11,10 +11,6 @@ It features a 1% to 100% loading animation to give a cool hacker vibe before rev
 - 📁 Sections for About, Projects, Skills, Contact
 - ⚛️ Built with React (fully responsive)
 
-## 📸 Demo
-
-![Demo Screenshot](demo.gif) <!-- replace with your actual gif or image -->
-
 ## 🛠️ Tech Stack
 
 - React
