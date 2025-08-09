@@ -11,7 +11,7 @@ import TerminalComponent from './components/Terminal';
 
 function App() {
   const [booting, setBooting] = useState(true);
-  const [bootProgress, setBootProgress] = useState(0);
+  const [bootProgress, setBootProgress] = useState(0)
   
   useEffect(() => {
     const bootTimer = setTimeout(() => {
