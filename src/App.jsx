@@ -41,7 +41,6 @@ function App() {
   return (
     <div className="min-h-screen bg-black text-amber-400 font-mono">
       <Navbar />
-      <TerminalComponent/>
       <About />
       <Skills />
       <Projects />
