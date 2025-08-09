@@ -195,7 +195,7 @@ export const Contact = () => {
               </a>
 
               <a
-                href="https://drive.google.com/file/d/1l5ldV42BzVcoCvhbmCpZI6BIwtx1W0Kk/view?usp=drivesdk"
+                href="https://drive.google.com/file/d/1Rjam0k5dKQ1d8lly0hKhdsiVX-dsq6tt/view?usp=drivesdk"
                 download
                 className="flex items-center text-amber-300 hover:text-amber-400"
               >
