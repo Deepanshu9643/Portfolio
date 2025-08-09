@@ -6,7 +6,6 @@ import { Projects } from './components/Projects';
 import { Contact } from './components/Contact';
 import Navbar from './components/Navbar';
 import { Footer } from './components/Footer';
-import TerminalComponent from './components/Terminal';
 
 
 function App() {
