@@ -6,6 +6,7 @@ import { Projects } from './components/Projects';
 import { Contact } from './components/Contact';
 import Navbar from './components/Navbar';
 import { Footer } from './components/Footer';
+import TerminalComponent from './components/Terminal';
 
 
 function App() {
@@ -40,6 +41,7 @@ function App() {
   return (
     <div className="min-h-screen bg-black text-amber-400 font-mono">
       <Navbar />
+      <TerminalComponent/>
       <About />
       <Skills />
       <Projects />
