@@ -10,7 +10,7 @@ export const TerminalComponent = () => {
     threshold: 0.2,
   });
 
-  const [cursorVisible, setCursorVisible] = useState(true);
+  const [cursorVisible, setCursorVisible] = useState(true)
 
   useEffect(() => {
     const cursorInterval = setInterval(() => {
